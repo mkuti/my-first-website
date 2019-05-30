@@ -34,17 +34,18 @@ nav a:hover {
 .class {
     float: left;
     width: 20%;
-    margin-left: 10%;
+    margin-left: 10%
 }
 
 .class a {
     text-align: center;
 }
 
-img {
+h1 {
+    text-align: center;
+}
+
+.class img {
     width: 100%;
 }
 
-h2 {
-    text-align: center;
-}
